@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout<<"It's CPP\nmaybe a prank";
+    return 0;
+}
